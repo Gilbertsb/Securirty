@@ -4,7 +4,7 @@
 Password for admin
 
 Username: Gilly
-password: gill@lib12
+password: gilly@lib12
 
 Database
 
