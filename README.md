@@ -2,10 +2,9 @@
 
 
 Password for admin
----------------------
+
 Username: Gilly
 password: gill@lib12
-
 
 Database
 
